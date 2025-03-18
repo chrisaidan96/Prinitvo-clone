@@ -1,0 +1,314 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.st_nav{
+    background-color: #f7f6f4;
+    color: grey;        
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.costa{
+    text-decoration: none;
+    color:#506683;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.Whatsapp{
+   margin-right: 20px;
+}
+
+.Need{
+    margin-left: 300px;
+    text-decoration: none;
+    color:#506683;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.Number{
+    color: #47B8F3;
+    text-decoration: none;
+    margin-left:-0.5px;
+    margin-right: 20px;
+}
+
+.st_nav span{
+    border: 1px solid;
+    color: grey;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.st_nav span img{
+    margin-left: 10px;
+    padding-right: 10px;
+}
+
+.printivo{
+    background-color: #ece8d9;
+    gap: 300px;
+    display: flex;
+    padding: 30px 0px 30px 50px;
+    position: sticky;
+    top: 0%;
+    z-index: 20px;
+}
+.printivo a{
+    text-decoration: none;
+    color: rgb(89, 85, 85);
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.nav{
+    margin-top: -5px;
+}
+
+.Quality{
+    background-color: #ece8d9;
+    padding-top: 150px;
+    margin-bottom: 50px;
+}
+
+.Quality fieldset{
+    background-color: white;
+    width:500px;
+    display: flex;
+    gap: 120px;
+    border: none;
+    padding: 25px;
+    margin-top: -150px;
+    color: rgb(232, 222, 222);
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.Quality fieldset input{
+    width:500px;
+    border: none;
+}
+
+.Quality_Print{
+    margin-top: -100px;
+    padding-bottom: 100px;
+    width: 500px;
+    padding-left: 100px;
+}
+
+.Quality h1{
+    font-size: 50px;
+    color:#384a62;
+}
+
+.Shipped{
+    color:#708095;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.Prints img{
+    width: 500px;
+    height: 300px;
+    margin-top: -100px;
+}
+.Prints{
+    display: flex;
+    gap: 500px;
+    line-height: 50px;
+}
+
+.Search{
+    margin-top: 100px;
+}
+
+.Search_icon:hover{
+    cursor: pointer;
+}
+
+marquee{
+    background-color: #f3b1cd;
+    padding: 25px;
+}
+
+/* Section */
+.Popular_Product h1{
+    color: #384a62;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman';
+}
+.Popular_Product{
+    margin-left: 50px;
+    font-family: Arial;
+    color:#ffffff;
+    margin-bottom: 40px;
+}
+.Popular_Product h4{
+    color: #384a62;
+    font-weight: bold;
+}
+.Popular_Product2{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.Cards{
+    margin-left: 10px;
+    color: #fdfdfd;
+    width:270px;
+    color: #384a62;
+    font-weight: bold;
+    border: 2px solid;
+    border-color:rgb(235, 233, 230);
+    padding-bottom: 30px;
+}
+.Cards img  {
+    transition: 0.5s all ease-in-out;
+    width: 270px;
+}
+.Cards:hover img{
+    transform: scale(0.9);
+}
+
+.Cards button{
+    background-color: #d77f81;
+    padding: 10px;
+    color: white;
+    border: none;
+    font-weight: bolder;
+    width: 200px;
+    
+}
+
+.logos{
+    color: #384a62;
+    font-weight: bold;
+    border: none;
+    margin-left: 60px;
+    margin-bottom:80px;
+}
+
+.logos img{
+    color: transparent;
+    background-color: transparent;
+}
+
+
+.testimony{
+    background-color: #edf6fd;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin-bottom: 40px;
+    color: #384a62;
+}
+
+.testimony h1{
+    color: #384a62;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 90px;
+}
+
+.Individual_test{
+    display: flex;
+    gap: 50px;
+    background-color: #edf6fd;
+    margin-left: 90px;
+}
+
+.Individual{
+    background-color: white;
+    display: flex;
+    padding: 20px 20px 15px 20px;
+    width: 300px;
+}
+
+.Individual a{
+    text-decoration: none;
+    color: blue;
+}
+
+.Individual img{
+    width: 30px;
+    margin-top: -95px;
+    padding-right: 10px;
+}
+
+.Count_on_us{
+    color: #384a62;
+    margin-left: 90px;
+    padding: 80px 0px;
+}
+
+.expectations{
+    display: flex;
+    gap: 90px;    
+}
+
+.Turnaround{
+    display: flex;
+}
+
+.noticed{
+    color: #384a62;
+    background-color: #f7f6f4;
+    padding: 60px 0px;
+    padding-left: 90px;
+}
+
+.noticed h1{
+    padding-bottom: 30px;
+}
+
+.Container{
+    display: flex;
+    gap: 100px;
+}
+
+.article img{
+    padding-bottom: 10px;
+}
+
+.article u{
+    cursor: pointer;
+}
+
+.Last_div{
+    background-color: #384a62;
+    color: white;
+    display: flex;
+    gap: 150px;
+    padding: 90px 20px 90px 60px;
+    font-family: Arial;
+}
+
+.Last_div ul{
+    list-style: none;
+    line-height: 30px;
+}
+
+.Payments{
+    width: 150px;
+}
+
+footer{
+    background-color: #cbcac8;
+    padding: 40px;
+    text-align: center;
+    color: #708095;
+}
+
+@media screen and (max-width:786px){
+    .Last_div{
+        background-color: purple;
+        color: red;
+    }  
+}
